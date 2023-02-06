@@ -1,5 +1,3 @@
-from asyncio.windows_events import NULL
-from msilib.schema import File
 import os
 import logging
 
